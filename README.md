@@ -1,6 +1,6 @@
 ## Description
 
-School management NestJS API + GraphQL + MongoDB developed in NestJS Zero to Hero course
+☸️ School management NestJS API + GraphQL + MongoDB developed in NestJS Zero to Hero course
 
 ## Installation
 
