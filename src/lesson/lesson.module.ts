@@ -1,4 +1,9 @@
 import { Module } from '@nestjs/common';
+import { LessonResolver } from './lesson.resolver';
 
-@Module({})
-export class LessonModule {}
+@Module({
+    providers: [
+        LessonResolver
+    ]
+})
+export class LessonModule { }
