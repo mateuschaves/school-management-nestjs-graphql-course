@@ -14,7 +14,7 @@ $ npm install
 :white_check_mark: Typescript\
 :white_check_mark: GraphQL\
 :white_check_mark: TypeORM\
-:white_check_mark: MongoDB\
+:white_check_mark: MongoDB
 
 ## Running the app
 
