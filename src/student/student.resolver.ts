@@ -16,8 +16,16 @@ export class StudentResolver {
         return this.studentService.createStudent(createStudentInput);
     }
 
+    @Query(returns => StudentType)
+    student(
+        @Args('id') id: string
+    ) {
+        return this.studentService.getStudent(id);
+    }
+
     @Query(returns => [StudentType])
-    students() {
+    students(
+    ) {
         return this.studentService.getStudents();
     }
 }
