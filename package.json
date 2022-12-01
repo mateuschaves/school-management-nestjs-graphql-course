@@ -23,7 +23,7 @@
   "dependencies": {
     "@nestjs/common": "^7.0.0",
     "@nestjs/core": "^7.0.0",
-    "@nestjs/graphql": "^7.4.1",
+    "@nestjs/graphql": "^7.11.0",
     "@nestjs/platform-express": "^7.0.0",
     "@nestjs/typeorm": "^7.1.0",
     "@types/mongodb": "^3.5.20",
@@ -32,7 +32,7 @@
     "class-transformer": "^0.3.1",
     "class-validator": "^0.12.2",
     "graphql": "^14.6.0",
-    "graphql-tools": "^6.0.9",
+    "graphql-tools": "^6.2.6",
     "mongodb": "^3.5.8",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
